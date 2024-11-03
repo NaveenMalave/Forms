@@ -4,9 +4,9 @@
  link to demo : - [Live](https://naveenmalave.github.io/Forms/Student%20Detail%20Form/forms1.html)
 ## Website Login Form
 ### Demo
-### login
+### Login
  link to demo : - [Live](https://naveenmalave.github.io/Forms/Student%20Detail%20Form/forms1.html)
- ### submit
+ ### Submit
  link to demo : - [Live](https://naveenmalave.github.io/Forms/Student%20Detail%20Form/forms1.html)
  ## Technologies used
 
