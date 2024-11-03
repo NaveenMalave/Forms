@@ -1,7 +1,12 @@
 # Forms
 ## Student Details Form
-## Demo
-
+# Demo
+ link to demo : - [Live](https://naveenmalave.github.io/Forms/Student%20Detail%20Form/forms1.html)
+## Website Login Form
+# Demo
+### login
+ link to demo : - [Live](https://naveenmalave.github.io/Forms/Student%20Detail%20Form/forms1.html)
+ ### submit
  link to demo : - [Live](https://naveenmalave.github.io/Forms/Student%20Detail%20Form/forms1.html)
  ## Technologies used
 
